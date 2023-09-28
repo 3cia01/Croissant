@@ -1,5 +1,5 @@
 body {
-  background: #f8e8a6;
+  background: #bcf8a6;
 }
 h1,
 p {
@@ -7,7 +7,7 @@ p {
 }
 .croissant-photo {
   max-width: 100%;
-  border-radius: 10px;
+  border-radius: 20px;
   display: block;
   margin: 30px auto;
 }
